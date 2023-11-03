@@ -1,5 +1,5 @@
 # Halo semua!
-Perkenalkan nama saya **Willy Syachputra**.
+My Name is Izzy Mackenzie
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
 
