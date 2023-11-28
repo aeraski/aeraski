@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Willy Syachputra</h1>
 <h3 align="center">A Beginner's Journey into Programming and Cybersecurity</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif](https://miro.medium.com/v2/resize:fit:679/1*i6OnUmnsoJWPwp6AvE3uRw.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeraski&label=Profile%20views&color=0e75b6&style=flat" alt="aeraski" /> </p>
 
